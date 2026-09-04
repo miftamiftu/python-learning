@@ -12,3 +12,15 @@ print(a,b,c)
 
 
 #keyword and identifiers
+#import keyword
+#print(keyword.kwlist)
+
+#identifiers:start with alphabet or _
+
+#user input
+
+first_num=input("name")
+second_num=input("enter the first number")
+print(first_num)
+print(second_num)
+
